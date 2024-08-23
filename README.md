@@ -36,7 +36,7 @@ The Action Plan App is a sophisticated tool designed to help users organize thei
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iam-baivab/Action-Plan.git
+   git clone https://github.com/ThisIs-Developer/Action-Plan.git
    ```
 
 2. Open `index.html` in your preferred web browser to start using the app.
@@ -74,6 +74,6 @@ Please ensure your code adheres to the existing code style and conventions.
 This project is licensed under the [Apache License 2.0](LICENSE).
 
 [license-shield]: https://img.shields.io/badge/License-Apache%202.0-red.svg
-[license-url]: https://github.com/iam-baivab/News-Scraping-using-BeautyfulSoup-Selenium-with-Django/blob/main/LICENSE
+[license-url]: https://github.com/ThisIs-Developer/Action-Plan/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/baivabsarkar/
